@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web.Http;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
+using System.Web.Http.Cors;
 
 namespace Vidly
 {
@@ -16,6 +17,9 @@ namespace Vidly
             settings.Formatting = Formatting.Indented;
 
             config.MapHttpAttributeRoutes();
+            
+            var cors = new EnableCorsAttribute("*", "*", "*");
+            config.EnableCors(cors);
 
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
