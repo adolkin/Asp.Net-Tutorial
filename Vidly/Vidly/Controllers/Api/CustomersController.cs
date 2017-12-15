@@ -30,7 +30,9 @@ namespace Vidly.Controllers.Api
         // Get /api/customer/1
         public IHttpActionResult GetCustomer(int id)
         {
-            var customer = _context.Customers.SingleOrDefault(c => c.Id == id);
+            var customer = _context.Customers
+                .Include( c => c.MembershipType)
+                .SingleOrDefault(c => c.Id == id);
 
             if (customer == null)
                 return NotFound();
