@@ -177,3 +177,5 @@ C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\bin\Sys
 C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
 C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
 C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddPhoneToApplicationUser.resources
+C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdatePhone.resources
