@@ -8,6 +8,7 @@ using Vidly.Models;
 
 namespace Vidly.Controllers.Api
 {
+    
     public class CustomersController : ApiController
     {
         private ApplicationDbContext _context;
@@ -16,7 +17,6 @@ namespace Vidly.Controllers.Api
         {
             _context = new ApplicationDbContext();
         }
-
         // Get /api/customers
         public IHttpActionResult GetCustomers()
         {

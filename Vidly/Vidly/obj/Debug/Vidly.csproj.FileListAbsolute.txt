@@ -171,7 +171,9 @@ C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\obj\Deb
 C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\obj\Debug\Vidly.pdb
-C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
 C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\bin\System.Web.Cors.dll
 C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\bin\System.Web.Http.Cors.dll
 C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\bin\System.Web.Http.Cors.xml
+C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
+C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
