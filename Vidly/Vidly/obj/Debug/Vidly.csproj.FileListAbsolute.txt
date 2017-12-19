@@ -179,3 +179,6 @@ C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\obj\Deb
 C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
 C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddPhoneToApplicationUser.resources
 C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdatePhone.resources
+C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddRental.resources
+C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateRental.resources
+C:\Users\developer-pc\source\repos\Tutorial\Asp.Net-Tutorial\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableToMovie.resources
